@@ -1,1 +1,10 @@
-google.com, pub-7856103945406319, DIRECT, f08c47fec0942fa0
+#Updated 21st NOVEMBER
+#Appodeal
+appodeal.com, 210487, DIRECT
+#BidMachine
+bidmachine.io, 210487, DIRECT
+#AdMob
+#Replace the Publisher_ID below with your Admob Publisher ID
+google.com, pub-2146852203945013, DIRECT, f08c47fec0942fa0
+
+#Add other networks if applicable
